@@ -1,0 +1,26 @@
+{
+  "name": "nodemailer-gmail",
+  "version": "1.0.0",
+  "description": "Send emails via Nodemailer using GMail service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "title Nodemailer Gmail && nodemon server.js"
+  },
+  "keywords": [
+    "email",
+    "gmail",
+    "nodemailer"
+  ],
+  "author": "Ingo Guilherme Both Eyng",
+  "license": "ISC",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "nodemailer": "^4.6.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.5"
+  }
+}
