@@ -18,7 +18,7 @@
     "consign": "^0.1.6",
     "express": "^4.16.3",
     "morgan": "^1.9.1",
-    "nodemailer": "^4.6.7",
+    "nodemailer": "^6.4.16",
     "minimist": ">=1.2.2"
   },
   "devDependencies": {
